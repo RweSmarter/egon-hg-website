@@ -1,0 +1,24 @@
+theme = "blowfish"
+baseURL = "https://egon-hg.de/"
+defaultContentLanguage = "de"
+languageCode = "de"
+title = "Egon Huebinger-Graner - Struktur & Code"
+
+enableRobotsTXT = true
+summaryLength = 30
+hasCJKLanguage = false
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
