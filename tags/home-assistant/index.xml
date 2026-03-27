@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home Assistant on Egon Huebinger-Graner - Struktur &amp; Code</title><link>https://egon-hg.de/tags/home-assistant/</link><description>Recent content in Home Assistant on Egon Huebinger-Graner - Struktur &amp; Code</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>© 2026 Egon Huebinger-Graner</copyright><lastBuildDate>Thu, 26 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://egon-hg.de/tags/home-assistant/index.xml" rel="self" type="application/rss+xml"/><item><title>Use Case 1: Orion – Meine KI lernt Home Assistant</title><link>https://egon-hg.de/posts/use-case-1-ha-access/</link><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate><guid>https://egon-hg.de/posts/use-case-1-ha-access/</guid><description>&lt;h1 class="relative group"&gt;Wie ich meiner KI den Schlüssel zu meinem Haus gab
+ &lt;div id="wie-ich-meiner-ki-den-schlüssel-zu-meinem-haus-gab" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#wie-ich-meiner-ki-den-schl%c3%bcssel-zu-meinem-haus-gab" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+&lt;p&gt;In diesem ersten Use Case beschreibe ich, wie ich meinen persönlichen Assistenten &lt;strong&gt;Orion&lt;/strong&gt; (basierend auf OpenClaw) mit meinem &lt;strong&gt;Home Assistant Server&lt;/strong&gt; verbunden habe.&lt;/p&gt;</description></item></channel></rss>

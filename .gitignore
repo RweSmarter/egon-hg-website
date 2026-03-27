@@ -1,0 +1,28 @@
+# Hugo default ignore patterns
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+.hugo_build.lock
+
+# Node dependencies
+/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Hugo modules
+/pkg/

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://egon-hg.de/sitemap.xml
