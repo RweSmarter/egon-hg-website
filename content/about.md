@@ -26,3 +26,5 @@ Mit Zertifizierungen in **PMP** und **Critical Chain Project Management** betrac
 
 ## Privat
 Wenn ich nicht gerade an neuen Automatisierungslösungen für mein Zuhause tüftle oder Immobilien strategisch manage, genieße ich das Leben auf Reisen – immer auf der Suche nach neuen Perspektiven. Früher habe ich Standard- und Latein-Turniertanz betrieben und war Mitglied der japanischen Trommelgruppe 'Mondbären'.
+
+<!-- SSH‑Key‑Test erfolgreich – Orion 🛸 -->
