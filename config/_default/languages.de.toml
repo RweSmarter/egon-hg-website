@@ -1,22 +1,22 @@
 languageCode = "de"
 languageName = "Deutsch"
 weight = 3
-title = "Blowfish"
+title = "Egon Huebinger-Graner - Struktur & Code"
 
 [params]
   displayName = "Deutsch"
   isoCode = "de"
   rtl = false
   dateFormat = "2. January 2006"
-  logo = "img/blowfish_logo_transparent.png"
-  description = "Ein leistungsstarkes, leichtgewichtiges Theme für Hugo."
+  logo = "img/logo.svg"
+  description = "Bauingenieur & Informatiker: PV-Carports, Smart Home, strategisches Immobilienmanagement."
 
 [params.author]
-  name = "Blowfish"
-  image = "img/blowfish_logo.png"
-  headline = "Ein leistungsstarkes, leichtgewichtiges Theme für Hugo."
-  bio = "Ein leistungsstarkes, leichtgewichtiges Theme für Hugo."
+  name = "Egon Huebinger-Graner"
+  image = ""
+  headline = "Bauingenieur (Statiker) & Informatiker der ersten Stunde"
+  bio = "Expertise in Tragwerksplanung, Parkplatz PV, Smart Home Automatisierung und Critical Chain Projektmanagement."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { linkedin = "https://linkedin.com/in/egonhuebingergraner" },
+    { github = "https://github.com/egonhg" },
   ]

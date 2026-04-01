@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://egonhg.github.io/"  # Default for GitHub Pages, will be overridden by HUGO_BASEURL
+baseURL = "https://egon-hg.de/"
 defaultContentLanguage = "de"
 languageCode = "de"
 title = "Egon Huebinger-Graner - Struktur & Code"
