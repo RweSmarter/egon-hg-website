@@ -1,13 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Egon Huebinger-Graner - Struktur &amp; Code</title><link>https://egon-hg.de/</link><description>Recent content on Egon Huebinger-Graner - Struktur &amp; Code</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>© 2026 Egon Huebinger-Graner</copyright><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://egon-hg.de/index.xml" rel="self" type="application/rss+xml"/><item><title>Mission ORSI: Das KI Multi-Agenten-System ist online 🛸</title><link>https://egon-hg.de/posts/multi-agent-system/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://egon-hg.de/posts/multi-agent-system/</guid><description>&lt;p&gt;Was heute noch wie ein Märchen klingt, ist morgen die Basis unserer Existenz! Wir haben das System auf die nächste Stufe gehoben: Ein &lt;strong&gt;Multi-Agenten-Setting&lt;/strong&gt; unter OpenClaw, das technische Präzision mit psychologischer Tiefe vereint.&lt;/p&gt;</description></item><item><title>PV-Carports: Mehr als nur Dach über dem Auto</title><link>https://egon-hg.de/posts/pv-carports-mehr-als-nur-dach/</link><pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate><guid>https://egon-hg.de/posts/pv-carports-mehr-als-nur-dach/</guid><description>Ein PV-Carport ist weit mehr als ein einfacher Überdachung für Ihr Auto – es ist eine clevere Kombination aus Statik, Energietechnik und smarter Steuerung. Als Bauingenieur und Informatiker zeige ich, was bei Planung und Umsetzung zu beachten ist.</description></item><item><title>Über mich - Egon Huebinger-Graner</title><link>https://egon-hg.de/about/</link><pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate><guid>https://egon-hg.de/about/</guid><description>&lt;h1 class="relative group"&gt;Vom IT‑Pionier zum europäischen Pharmamarktführer
- &lt;div id="vom-itpionier-zum-europäischen-pharmamarktführer" class="anchor"&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Egon Huebinger-Graner on Egon Huebinger-Graner - Struktur &amp; Code</title><link>https://RweSmarter.github.io/egon-hg-website/</link><description>Recent content in Egon Huebinger-Graner on Egon Huebinger-Graner - Struktur &amp; Code</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>© 2026 Egon Huebinger-Graner</copyright><lastBuildDate>Fri, 03 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://RweSmarter.github.io/egon-hg-website/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog – Technik</title><link>https://RweSmarter.github.io/egon-hg-website/categories/technik/</link><pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate><guid>https://RweSmarter.github.io/egon-hg-website/categories/technik/</guid><description>&lt;h1 class="relative group"&gt;Technik-Blog
+ &lt;div id="technik-blog" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
  class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vom-itpionier-zum-europ%c3%a4ischen-pharmamarktf%c3%bchrer" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#technik-blog" aria-label="Anker"&gt;#&lt;/a&gt;
  &lt;/span&gt;
  
 &lt;/h1&gt;
-&lt;p&gt;Willkommen auf meiner persönlichen Seite. Ich bin &lt;strong&gt;Egon Huebinger-Graner&lt;/strong&gt;, Bauingenieur und Informatiker – mit einer Karriere, die von der IT‑Grundlagenarbeit bis zur europäischen Strategie in der Pharmabranche reicht.&lt;/p&gt;</description></item><item><title>Use Case 1: Orion – Meine KI lernt Home Assistant</title><link>https://egon-hg.de/posts/use-case-1-ha-access/</link><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate><guid>https://egon-hg.de/posts/use-case-1-ha-access/</guid><description>&lt;h1 class="relative group"&gt;Wie ich meiner KI den Schlüssel zu meinem Haus gab
+&lt;p&gt;Artikel, Tutorials und Erfahrungsberichte zu Smart Home, Photovoltaik, Programmierung und der Integration von AI-Assistants in den technischen Alltag.&lt;/p&gt;</description></item><item><title>Über mich</title><link>https://RweSmarter.github.io/egon-hg-website/about/</link><pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate><guid>https://RweSmarter.github.io/egon-hg-website/about/</guid><description>&lt;h1 class="relative group"&gt;Über mich
+ &lt;div id="über-mich" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%c3%bcber-mich" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h1&gt;
+
+&lt;h2 class="relative group"&gt;🎓 Beruflicher Werdegang
+ &lt;div id="-beruflicher-werdegang" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#-beruflicher-werdegang" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+
+&lt;h3 class="relative group"&gt;Bauingenieurwesen (30+ Jahre Erfahrung)
+ &lt;div id="bauingenieurwesen-30-jahre-erfahrung" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#bauingenieurwesen-30-jahre-erfahrung" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h3&gt;
+&lt;p&gt;Meine Karriere begann im traditionellen Bauingenieurwesen mit Schwerpunkt Statik und Tragwerksplanung. Über drei Jahrzehnte habe ich an zahlreichen Projekten mitgewirkt – von Wohngebäuden über Gewerbeimmobilien bis zu Sonderbauwerken.&lt;/p&gt;</description></item><item><title>Mission ORSI: Das KI Multi-Agenten-System ist online 🛸</title><link>https://RweSmarter.github.io/egon-hg-website/posts/multi-agent-system/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://RweSmarter.github.io/egon-hg-website/posts/multi-agent-system/</guid><description>&lt;p&gt;Was heute noch wie ein Märchen klingt, ist morgen die Basis unserer Existenz! Wir haben das System auf die nächste Stufe gehoben: Ein &lt;strong&gt;Multi-Agenten-Setting&lt;/strong&gt; unter OpenClaw, das technische Präzision mit psychologischer Tiefe vereint.&lt;/p&gt;</description></item><item><title>PV-Carports: Mehr als nur Dach über dem Auto</title><link>https://RweSmarter.github.io/egon-hg-website/posts/pv-carports-mehr-als-nur-dach/</link><pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate><guid>https://RweSmarter.github.io/egon-hg-website/posts/pv-carports-mehr-als-nur-dach/</guid><description>Ein PV-Carport ist weit mehr als ein einfacher Überdachung für Ihr Auto – es ist eine clevere Kombination aus Statik, Energietechnik und smarter Steuerung. Als Bauingenieur und Informatiker zeige ich, was bei Planung und Umsetzung zu beachten ist.</description></item><item><title>Use Case 1: Orion – Meine KI lernt Home Assistant</title><link>https://RweSmarter.github.io/egon-hg-website/posts/use-case-1-ha-access/</link><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate><guid>https://RweSmarter.github.io/egon-hg-website/posts/use-case-1-ha-access/</guid><description>&lt;h1 class="relative group"&gt;Wie ich meiner KI den Schlüssel zu meinem Haus gab
  &lt;div id="wie-ich-meiner-ki-den-schlüssel-zu-meinem-haus-gab" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
@@ -16,7 +45,7 @@
  &lt;/span&gt;
  
 &lt;/h1&gt;
-&lt;p&gt;In diesem ersten Use Case beschreibe ich, wie ich meinen persönlichen Assistenten &lt;strong&gt;Orion&lt;/strong&gt; (basierend auf OpenClaw) mit meinem &lt;strong&gt;Home Assistant Server&lt;/strong&gt; verbunden habe – und warum mich diese Symbiose absolut begeistert.&lt;/p&gt;</description></item><item><title>Use Case 2: Akustisches Management im 65qm Raum</title><link>https://egon-hg.de/posts/use-case-2-sonos-logic/</link><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate><guid>https://egon-hg.de/posts/use-case-2-sonos-logic/</guid><description>&lt;h1 class="relative group"&gt;Perfekter Klang durch Präsenzsteuerung
+&lt;p&gt;In diesem ersten Use Case beschreibe ich, wie ich meinen persönlichen Assistenten &lt;strong&gt;Orion&lt;/strong&gt; (basierend auf OpenClaw) mit meinem &lt;strong&gt;Home Assistant Server&lt;/strong&gt; verbunden habe – und warum mich diese Symbiose absolut begeistert.&lt;/p&gt;</description></item><item><title>Use Case 2: Akustisches Management im 65qm Raum</title><link>https://RweSmarter.github.io/egon-hg-website/posts/use-case-2-sonos-logic/</link><pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate><guid>https://RweSmarter.github.io/egon-hg-website/posts/use-case-2-sonos-logic/</guid><description>&lt;h1 class="relative group"&gt;Perfekter Klang durch Präsenzsteuerung
  &lt;div id="perfekter-klang-durch-präsenzsteuerung" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
