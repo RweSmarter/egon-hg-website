@@ -10,6 +10,11 @@ summary: "Ein PV-Carport ist weit mehr als ein einfacher Überdachung für Ihr A
 
 ## Warum ein PV-Carport?
 
+<div style="text-align: center; margin: 2rem 0;">
+  <img src="/images/pv-carport-sopago.jpg" alt="PV‑Carport mit Hochleistungsmodulen – Beispiel SopAGO Konstruktion" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="font-size: 0.9rem; color: #666; margin-top: 0.5rem;">Beispiel einer PV‑Carport‑Konstruktion (Bild: Unsplash)</p>
+</div>
+
 Ein Carport mit integrierter Photovoltaik-Anlage verbindet zwei wichtige Funktionen: Ihr Auto steht wettergeschützt, und Sie erzeugen gleichzeitig sauberen Strom. Das ist besonders attraktiv für Grundstücke, die über große, ungenutzte Parkflächen verfügen. Statt die Module auf dem Hausdach zu montieren – was oft aus Platz- oder Ausrichtungsgründen limitiert ist – nutzen Sie die ohnehin vorhandene Fläche über der Parkposition.
 
 Doch ein PV-Carport ist mehr als nur ein Dach mit Modulen. Es handelt sich um eine **tragwerksplanerische Herausforderung**, die Wind‑ und Schneelasten sicher aufnehmen muss, gleichzeitig aber auch die **elektrotechnische Integration** und oft eine **smarte Ladeinfrastruktur** für Elektrofahrzeuge verlangt.
