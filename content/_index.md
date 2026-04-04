@@ -3,12 +3,14 @@ title: "Egon Huebinger-Graner"
 description: "Bauingenieur • Projektmanager • Technik-Enthusiast – Statik meets Smart Home"
 date: 2026-04-03
 draft: false
-featuredImage: "/images/egon-portrait.jpg"
+featuredImage: "/images/avatar.jpg"
 featuredImageAlt: "Egon Huebinger-Graner - Bauingenieur und Technik-Enthusiast"
 ---
 
 # Egon Huebinger-Graner  
 **Bauingenieur • Projektmanager • Technik-Enthusiast**
+
+<img src="/images/avatar.jpg" alt="Egon Huebinger-Graner – Bauingenieur und Technik‑Enthusiast" style="max-width: 400px; border-radius: 8px; margin: 1rem auto; display: block;">
 
 ---
 
